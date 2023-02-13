@@ -10,9 +10,9 @@ namespace BasicProgram
             //int flip = Convert.ToInt32(Console.ReadLine());
             //double HeadPER = Flipcoin.CalculatePercentage(flip, "Hello");
             //Console.WriteLine("Head Percentage " + HeadPER);
-            //Primefactorization.CheckPrimefactor();
+            Primefactorization.CheckPrimefactor();
             // Harmonic.Harmonicnumber();
-            Poweroftwo.CalaculateNumber();
+            //Poweroftwo.CalaculateNumber();
             //Leapyear.LeapyearorNot();
             //username.Displayusername();
              //Flipcoin.CalculatePercentage();
