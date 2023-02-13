@@ -7,9 +7,9 @@ namespace Logicalpoblems
         public static void Main(string[] args)
         {
            //EvenorOdd.CheckEvenorOdd();
-            QuotientAndRemainder.FindQuotientAndRemainder();
+           // QuotientAndRemainder.FindQuotientAndRemainder();
             //LargestNumber.FindLargestNumber();
-            // Swapping.SwappingtheNumber();
+            Swapping.SwappingtheNumber();
             //Vowelandconsonant.Checkthecharacter();
         }
     }
