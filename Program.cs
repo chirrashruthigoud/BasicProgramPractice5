@@ -14,9 +14,9 @@ namespace BasicProgram
            // Harmonic.Harmonicnumber();
             //Poweroftwo.CalaculateNumber();
             //Leapyear.LeapyearorNot();
-            // username.Displayusername();
+            username.Displayusername();
             // Flipcoin.CalculatePercentage();
-            Console.WriteLine("Shruthi Welcome to .Net Framwork ");
+            //Console.WriteLine("Shruthi Welcome to .Net Framwork ");
 
 
 
