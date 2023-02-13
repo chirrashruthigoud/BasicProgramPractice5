@@ -11,8 +11,8 @@ namespace BasicProgram
             //double HeadPER = Flipcoin.CalculatePercentage(flip, "Hello");
             //Console.WriteLine("Head Percentage " + HeadPER);
             //Primefactorization.CheckPrimefactor();
-           Harmonic.Harmonicnumber();
-            //Poweroftwo.CalaculateNumber();
+            // Harmonic.Harmonicnumber();
+            Poweroftwo.CalaculateNumber();
             //Leapyear.LeapyearorNot();
             //username.Displayusername();
              //Flipcoin.CalculatePercentage();
