@@ -8,9 +8,9 @@ namespace Logicalpoblems
         {
            // EvenorOdd.CheckEvenorOdd();
            // QuotientAndRemainder.FindQuotientAndRemainder();
-            //LargestNumber.FindLargestNumber();
+            LargestNumber.FindLargestNumber();
             // Swapping.SwappingtheNumber();
-            Vowelandconsonant.Checkthecharacter();
+            //Vowelandconsonant.Checkthecharacter();
         }
     }
 }
